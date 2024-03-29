@@ -1,5 +1,7 @@
 # <Hello, my ![Visitor Count](https://profile-counter.glitch.me/Friedrich20/count.svg) visitor👋/>
 
+![](https://raw.githubusercontent.com/Friedrich20/Friedrich20/output/github-contribution-grid-snake.svg)
+
 <!--
 **Friedrich20/Friedrich20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
